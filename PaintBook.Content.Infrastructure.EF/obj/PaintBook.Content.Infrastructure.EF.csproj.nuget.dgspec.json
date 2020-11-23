@@ -1,0 +1,533 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Content.Infrastructure.EF\\PaintBook.Content.Infrastructure.EF.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mo\\Desktop\\paintbook not on git\\Application.FrameWork\\FrameWork.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mo\\Desktop\\paintbook not on git\\Application.FrameWork\\FrameWork.Application.csproj",
+        "projectName": "FrameWork.Application",
+        "projectPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\Application.FrameWork\\FrameWork.Application.csproj",
+        "packagesPath": "C:\\Users\\mo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\Application.FrameWork\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.11.7, )"
+            },
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.Core\\FrameWork.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.Core\\FrameWork.Core.csproj",
+        "projectName": "FrameWork.Core",
+        "projectPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.Core\\FrameWork.Core.csproj",
+        "packagesPath": "C:\\Users\\mo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.Domian\\FrameWork.Domian.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.Domian\\FrameWork.Domian.csproj",
+        "projectName": "FrameWork.Domian",
+        "projectPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.Domian\\FrameWork.Domian.csproj",
+        "packagesPath": "C:\\Users\\mo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.Domian\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.EF\\FrameWork.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.EF\\FrameWork.EF.csproj",
+        "projectName": "FrameWork.EF",
+        "projectPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.EF\\FrameWork.EF.csproj",
+        "packagesPath": "C:\\Users\\mo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Content.Applicaton.Contracts\\PaintBook.Content.Applicaton.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Content.Applicaton.Contracts\\PaintBook.Content.Applicaton.Contracts.csproj",
+        "projectName": "PaintBook.Content.Applicaton.Contracts",
+        "projectPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Content.Applicaton.Contracts\\PaintBook.Content.Applicaton.Contracts.csproj",
+        "packagesPath": "C:\\Users\\mo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Content.Applicaton.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\mo\\Desktop\\paintbook not on git\\Application.FrameWork\\FrameWork.Application.csproj": {
+                "projectPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\Application.FrameWork\\FrameWork.Application.csproj"
+              },
+              "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.EF\\FrameWork.EF.csproj": {
+                "projectPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.EF\\FrameWork.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Content.Infrastructure.EF\\PaintBook.Content.Infrastructure.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Content.Infrastructure.EF\\PaintBook.Content.Infrastructure.EF.csproj",
+        "projectName": "PaintBook.Content.Infrastructure.EF",
+        "projectPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Content.Infrastructure.EF\\PaintBook.Content.Infrastructure.EF.csproj",
+        "packagesPath": "C:\\Users\\mo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Content.Infrastructure.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\mo\\Desktop\\paintbook not on git\\Application.FrameWork\\FrameWork.Application.csproj": {
+                "projectPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\Application.FrameWork\\FrameWork.Application.csproj"
+              },
+              "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.EF\\FrameWork.EF.csproj": {
+                "projectPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.EF\\FrameWork.EF.csproj"
+              },
+              "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Content.Applicaton.Contracts\\PaintBook.Content.Applicaton.Contracts.csproj": {
+                "projectPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Content.Applicaton.Contracts\\PaintBook.Content.Applicaton.Contracts.csproj"
+              },
+              "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Domain\\PaintBook.Content.Domain.csproj": {
+                "projectPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Domain\\PaintBook.Content.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Domain\\PaintBook.Content.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Domain\\PaintBook.Content.Domain.csproj",
+        "projectName": "PaintBook.Content.Domain",
+        "projectPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Domain\\PaintBook.Content.Domain.csproj",
+        "packagesPath": "C:\\Users\\mo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.Core\\FrameWork.Core.csproj": {
+                "projectPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.Core\\FrameWork.Core.csproj"
+              },
+              "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.Domian\\FrameWork.Domian.csproj": {
+                "projectPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.Domian\\FrameWork.Domian.csproj"
+              },
+              "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.EF\\FrameWork.EF.csproj": {
+                "projectPath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\FrameWork.EF\\FrameWork.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

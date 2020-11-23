@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PaintBook.Content.Applicaton.Contracts\PaintBook.Content.Applicaton.Contracts.csproj" />
+    <ProjectReference Include="..\PaintBook.Content.Infrastructure.EF\PaintBook.Content.Infrastructure.EF.csproj" />
+    <ProjectReference Include="..\PaintBook.Domain\PaintBook.Content.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="9.3.0" />
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+  </ItemGroup>
+
+</Project>

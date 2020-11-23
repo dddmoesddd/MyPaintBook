@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CSharpFunctionalExtensions" Version="2.12.0" />
+    <PackageReference Include="MediatR" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FrameWork.Core\FrameWork.Core.csproj" />
+    <ProjectReference Include="..\FrameWork.Domian\FrameWork.Domian.csproj" />
+    <ProjectReference Include="..\FrameWork.EF\FrameWork.EF.csproj" />
+  </ItemGroup>
+
+</Project>

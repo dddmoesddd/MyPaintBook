@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="MediatRFiles\**" />
+    <EmbeddedResource Remove="MediatRFiles\**" />
+    <None Remove="MediatRFiles\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommonServiceLocator" Version="2.0.5" />
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="5.0.0" />
+    <PackageReference Include="WebSocket4Net" Version="0.15.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application.FrameWork\FrameWork.Application.csproj" />
+    <ProjectReference Include="..\FrameWork.Core\FrameWork.Core.csproj" />
+    <ProjectReference Include="..\FrameWork.Domian\FrameWork.Domian.csproj" />
+    <ProjectReference Include="..\PaintBook.Content.Application\PaintBook.Content.Application.csproj" />
+    <ProjectReference Include="..\PaintBook.Content.Applicaton.Contracts\PaintBook.Content.Applicaton.Contracts.csproj" />
+    <ProjectReference Include="..\PaintBook.Content.Infrastructure.EF\PaintBook.Content.Infrastructure.EF.csproj" />
+    <ProjectReference Include="..\PaintBook.Domain\PaintBook.Content.Domain.csproj" />
+    <ProjectReference Include="..\PaintBook.Interface\PaintBook.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

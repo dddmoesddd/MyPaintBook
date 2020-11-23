@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNet.WebApi" Version="5.2.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PaintBook.Content.Application\PaintBook.Content.Application.csproj" />
+    <ProjectReference Include="..\PaintBook.Content.Applicaton.Contracts\PaintBook.Content.Applicaton.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

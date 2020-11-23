@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MfWYgdbd+x8cQAKGbndXst6lOYU8UHNBwgmWfW5VpIkLe/ptOS07l51NNW4Y6yp8bHhZdNciMrM7EN2PAF8SNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Useres\\PaintBook.Useres.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mo\\.nuget\\packages\\csharpfunctionalextensions\\2.12.2\\csharpfunctionalextensions.2.12.2.nupkg.sha512",
+    "C:\\Users\\mo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

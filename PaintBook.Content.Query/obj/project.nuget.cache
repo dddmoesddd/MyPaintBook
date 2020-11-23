@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fr0lzRwnrMr4uNptRNDCvQnBD78gKiQc9XdPhG+y89YzbvZMqwcCCXUfSOmLJzi/2UUabGlqcAbFeti/ugOCvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mo\\Desktop\\paintbook not on git\\PaintBook.Content.Query\\PaintBook.Content.Query.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mo\\.nuget\\packages\\csharpfunctionalextensions\\2.12.0\\csharpfunctionalextensions.2.12.0.nupkg.sha512",
+    "C:\\Users\\mo\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\mo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\mo\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\Users\mo\Source\Repos\PaintBooK\FrameWork.Core\bin\Debug\netcoreapp3.1\FrameWork.Core.deps.json
+C:\Users\mo\Source\Repos\PaintBooK\FrameWork.Core\bin\Debug\netcoreapp3.1\FrameWork.Core.dll
+C:\Users\mo\Source\Repos\PaintBooK\FrameWork.Core\bin\Debug\netcoreapp3.1\FrameWork.Core.pdb
+C:\Users\mo\Source\Repos\PaintBooK\FrameWork.Core\obj\Debug\netcoreapp3.1\FrameWork.Core.AssemblyInfoInputs.cache
+C:\Users\mo\Source\Repos\PaintBooK\FrameWork.Core\obj\Debug\netcoreapp3.1\FrameWork.Core.AssemblyInfo.cs
+C:\Users\mo\Source\Repos\PaintBooK\FrameWork.Core\obj\Debug\netcoreapp3.1\FrameWork.Core.csproj.CoreCompileInputs.cache
+C:\Users\mo\Source\Repos\PaintBooK\FrameWork.Core\obj\Debug\netcoreapp3.1\FrameWork.Core.dll
+C:\Users\mo\Source\Repos\PaintBooK\FrameWork.Core\obj\Debug\netcoreapp3.1\FrameWork.Core.pdb
